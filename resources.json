@@ -1,0 +1,12 @@
+[
+    {
+      "name": "资源名称 1",
+      "image": "assets/image1.jpg",
+      "link": "assets/file1.pdf"
+    },
+    {
+      "name": "资源名称 2",
+      "image": "assets/image2.jpg",
+      "link": "assets/file2.zip"
+    }
+  ]
