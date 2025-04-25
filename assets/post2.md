@@ -1,9 +1,9 @@
 #
 7z是一款开源小巧的解压软件.
 -------------
-[windows 64位用户]:(https://www.7-zip.org/a/7z2409-x64.exe)
-[windows 32位用户]:(https://www.7-zip.org/a/7z2409.exe)
-[mac苹果电脑]:(https://www.7-zip.org/a/7z2409-arm64.exe)
+[windows 64位用户](https://www.7-zip.org/a/7z2409-x64.exe)
+[windows 32位用户](https://www.7-zip.org/a/7z2409.exe)
+[mac苹果电脑](https://www.7-zip.org/a/7z2409-arm64.exe)
 --------------
 [版本]24.09
 [日期]2024-11-29
