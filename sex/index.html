@@ -1,12 +1,23 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>三合一示例</title>
+    <style>
+        h1 { color: blue; }
+        p { background-color: #f0f0f0; }
+        button { background-color: green; color: white; }
+    </style>
 </head>
 <body>
-    <p> This is a H page.</p>
-    
+    <h1>点击按钮试试！</h1>
+    <p id="demo">原始文本</p>
+    <button onclick="changeText()">改变文本</button>
+
+    <script>
+        function changeText() {
+            document.getElementById("demo").innerHTML = "Hello, World!";
+            document.getElementById("demo").style.color = "red";
+        }
+    </script>
 </body>
 </html>
