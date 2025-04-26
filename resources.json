@@ -33,8 +33,13 @@
          "image": "assets/image7.jpg",
          "link": "assets/post7.md"},
          {
-          "name":"魔法禁书",
+          "name":"魔法禁书:locked_under18",
           "image":"sex/src/image/layout.jpg",
           "link":"sex/index.html"
+         },
+         {
+          "name":"html css js练习:备忘文件",
+          "iamge":"assets/iamge8.jpg",
+          "link" : "assets/post8.md"
          }
   ]
