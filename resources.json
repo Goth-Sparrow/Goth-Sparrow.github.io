@@ -31,5 +31,10 @@
 
          {"name": "系统镜像ISO官网列表:list",
          "image": "assets/image7.jpg",
-         "link": "assets/post7.md"}
+         "link": "assets/post7.md"},
+         {
+          "name":"魔法禁书",
+          "image":"sex/src/image/layout.jpg",
+          "link":"sex/index.html"
+         }
   ]
