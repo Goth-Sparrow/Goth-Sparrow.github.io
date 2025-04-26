@@ -1,17 +1,22 @@
 [
     {
-      "name": "windows激活和offices全家桶激活",
+      "name": "windows激活和offices全家桶激活:代码",
       "image": "assets/image1.jpg",
       "link": "assets/post1.md"
     },
     {
-      "name": "解压软件开源免费解压软件7z",
+      "name": "解压软件开源免费解压软件:7z",
       "image": "assets/image2.jpg",
       "link": "assets/post2.md"
     },
     {
-     "name": "PC端科学上网软件",
+     "name": "PC端科学上网软件:V2rayN",
       "image": "assets/image3.jpg",
       "link": "assets/post3.md"
-    }
+    },
+    {
+      "name": "桌面美化软件:Nexus",
+       "image": "assets/image4.jpg",
+       "link": "assets/post4.md"
+     }
   ]
