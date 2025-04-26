@@ -26,5 +26,10 @@
         },
         {"name": "手机号激活购买网站:SMS-active",
          "image": "assets/image6.jpg",
-         "link": "assets/post6.md"}
+         "link": "assets/post6.md"
+        },
+
+         {"name": "系统镜像ISO官网列表:list",
+         "image": "assets/image7.jpg",
+         "link": "assets/post7.md"}
   ]
