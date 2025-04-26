@@ -16,3 +16,4 @@ irm https://get.activated.win | iex
 ---再输入 3  跳转到下载offices网页，输入1 激活offices
 ，右下角选择zh_cn 中文版本，点带爱心64x版下载
 ------------------------------------------------
+[offices 全家桶自动化安装](https://wwsn.lanzouw.com/isH4l2uj5yta)
