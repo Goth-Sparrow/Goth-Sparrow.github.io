@@ -46,5 +46,10 @@
           "name":"砂糖的幸福生活:happy sugar life:名言",
           "image": "assets/image9.jpg",
           "link" : "assets/post9.md"
-         } 
+         },
+         {
+          "name":"当曾经有趣的游戏都不再有趣，试试编程吧：鼓励",
+          "image":"assets/image10.jpg",
+          "link":"assets/post10.md"
+         }
   ]
