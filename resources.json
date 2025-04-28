@@ -41,5 +41,10 @@
           "name":"html css js练习:备忘文件",
           "image": "assets/image8.jpg",
           "link" : "assets/post8.md"
+         } ,
+         {
+          "name":"砂糖的幸福生活:happy sugar life:名言",
+          "image": "assets/image9.jpg",
+          "link" : "assets/post9.md"
          } 
   ]
